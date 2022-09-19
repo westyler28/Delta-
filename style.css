@@ -1,0 +1,17 @@
+body {
+  background-image: url('https://s.yimg.com/ny/api/res/1.2/vIYYq63eSlDWQPGwYnUVgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTYwNA--/https://s.yimg.com/uu/api/res/1.2/QkxN0vu0SZqcRbTsKeqCaw--~B/aD02OTc7dz03Mzg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/augustman_810/05191cc85512276b51de463191226456');  
+}
+h4{
+  color: #B71C1C;
+  font-family: 'Bungee Spice', cursive;
+}
+.card {
+  margin-top: 1rem;
+  color: #B71C1C;
+   font-family: 'Bungee Spice', cursive;
+}
+#btnGetFacts{
+  color: #B71C1C;
+  font-family: 'Bungee Spice', cursive;
+
+}
