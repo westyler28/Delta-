@@ -61,30 +61,30 @@ function getSpiritAnimal(x) {
  
 
   if (x.length == 3) {
-    return "Spirit of the rat";
+    return "Spirit of the rat. Can slip into any position";
   } else if (x.length  == 4) {
-    return "Spirit of the ox";
+    return "Spirit of the ox. The toughest of them all";
   } 
     else if (x.length == 5) {
-      return "Spirit of the snake"
+      return "Spirit of the snake. Can talk your way out of all"
     }
   else if (x.length  == 6) {
-    return "Spirit of the tiger";
+    return "Spirit of the tiger. Braver than most";
   } 
     else if (x.length == 7) {
-      return "Spirit of the monkey"
+      return "Spirit of the monkey. The life of the party"
     }
   else if (x.length  == 8) {
-    return "Spirit of the goat";
+    return "Spirit of the goat. The greatest of all time";
   } 
     else if (x.length == 9) {
-      return "Spirit of the pig"
+      return "Spirit of the pig. Big, trusted, and yummy "
     }
   else if (x.length  == 10) {
-    return "Spirit of the dog";
+    return "Spirit of the dog. loyal to the core";
   } 
     else if (x.length > 10) {
-      return "Spirit of the dragon!!!"
+      return "Spirit of the dragon!!! You are absolutly the best"
     }
   else {
     return "Why is your name so short you are just a germ";
